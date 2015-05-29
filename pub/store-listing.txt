@@ -5,7 +5,7 @@ Fraser Valley Express (FVX) bus for MonTransit BETA.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from April 6, 2015 to June 28, 2015.
+Schedule from April 14, 2015 to September 5, 2015.
 Tweets from @BCTransit.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
