@@ -5,7 +5,7 @@ Fraser Valley Express (FVX) bus for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from November 4, 2016 to September 2, 2017.
+Schedule from August 17, 2017 to September 2, 2017.
 Tweets from @BCTransit.
 ----------
 Full description:
