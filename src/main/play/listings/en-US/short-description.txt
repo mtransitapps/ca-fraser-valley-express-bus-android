@@ -1,2 +1,1 @@
-Fraser Valley Express (FVX) bus for MonTransit.
-Schedule. Alerts. News.
+Fraser Valley Express (FVX) bus for MonTransit. Schedule. Alerts. News.
